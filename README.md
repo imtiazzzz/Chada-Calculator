@@ -52,3 +52,24 @@ Design a Python program that represents different transportation services with u
 ```bash
 git clone https://github.com/your-username/chada-calculator.git
 cd chada-calculator
+
+### 2. Run the Program  
+```bash
+python deshnetar_calculator.py
+
+### 3. Example Interaction
+```bash
+=== Deshnetar Calculator ===
+Choose transportation:
+1. Bus
+2. Auto
+Enter your choice (1/2): 2
+Enter multiplier (default=1): 3
+Enter extra percentage (default=0): 20
+
+=== Fare Calculation Result ===
+Auto Stand, Base Fare: 80
+Includes: 10% priority charge + singara coke cost (15.0)
+Final Fare: 319.00
+
+
