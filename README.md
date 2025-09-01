@@ -53,9 +53,13 @@ Design a Python program that represents different transportation services with u
 git clone https://github.com/your-username/chada-calculator.git
 cd chada-calculator
 
+---
+
 ### 2. Run the Program  
 ```bash
 python deshnetar_calculator.py
+
+---
 
 ### 3. Example Interaction
 ```bash
@@ -71,5 +75,6 @@ Enter extra percentage (default=0): 20
 Auto Stand, Base Fare: 80
 Includes: 10% priority charge + singara coke cost (15.0)
 Final Fare: 319.00
+
 
 
