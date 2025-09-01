@@ -15,7 +15,7 @@ The program follows clean coding practices with **logging, custom exceptions, an
 
 ---
 
-## ❓ Problem Statement  
+##  Problem Statement ❓
 > **Question:**  
 Design a Python program that represents different transportation services with unique fare calculation rules. The program should:  
 1. Let the user choose a transport type (Bus or Auto).  
@@ -52,12 +52,14 @@ Design a Python program that represents different transportation services with u
 ```bash
 git clone https://github.com/your-username/chada-calculator.git
 cd chada-calculator
+```
 
 ---
 
 ### 2. Run the Program  
 ```bash
 python deshnetar_calculator.py
+```
 
 ---
 
@@ -75,6 +77,7 @@ Enter extra percentage (default=0): 20
 Auto Stand, Base Fare: 80
 Includes: 10% priority charge + singara coke cost (15.0)
 Final Fare: 319.00
+```
 
 
 
